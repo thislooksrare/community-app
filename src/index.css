@@ -13,7 +13,7 @@ h1,
 h2,
 h3 {
   font-family: 'League Spartan', sans-serif;
-  color: #25c712;
+  color: #c7c712;
 }
 
 thead {
@@ -33,7 +33,7 @@ tr {
 }
 
 .exchange-listings {
-  border: 2px #25c712 solid;
+  border: 2px #c7c712 solid;
 }
 
 .react-select-container {
