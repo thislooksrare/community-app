@@ -28,6 +28,34 @@
     ]
   },
   {
+    "name": "JUMI",
+    "twitter": "https://twitter.com/jumi",
+    "bio": "Learned the occult and magical arts of Graphic & Digital Design in the LCI International School in Colombia, after not being accepted at Hogwarts Wizarding School. Curious, weird, and a big fan of video games and mushrooms. Not the magic ones. Or maybe yes. Born in Colombia, by the real name of Juan Manuel Rojas. Now traveling around the world and discovering new and powerful magics.",
+    "tags": ["Illustration", null, null],
+    "exchange": null,
+    "holaplex": "https://jumi.holaplex.com/",
+    "formfunction": null,
+    "images": [
+      "https://arweave.net/JsM7_q4wbIl1k9MXdUQknfoBPLF__LqTEtwHAtxNks4",
+      "blob:https://jumi.holaplex.com/4ed37729-3ae7-4071-8967-1d1cc2823923",
+      "blob:https://jumi.holaplex.com/fe0966ff-832f-497b-94fa-b171d5d790da"
+    ]
+  },
+  {
+    "name": "HANDKRAMPF",
+    "twitter": "https://twitter.com/handkrampf",
+    "bio": "i am a calligraphy artist from Hamburg 🖌️ hand drawn art and digital stuff - Instagram: Handkrampf",
+    "tags": ["Illustration", null, null],
+    "exchange": null,
+    "holaplex": "https://handkrampf.holaplex.com/",
+    "formfunction": null,
+    "images": [
+      "https://pbs.twimg.com/profile_images/1456380842507489284/8uO8_X1a_400x400.jpg",
+      "https://pbs.twimg.com/media/FL5_43GXwAI8Qi4?format=jpg&name=900x900",
+      "https://pbs.twimg.com/media/FKDWbJGXMAgP7fd?format=jpg&name=large"
+    ]
+  },
+  {
     "name": "SPÄM",
     "twitter": "https://twitter.com/spaem2000",
     "bio": null,
@@ -39,20 +67,6 @@
       "https://cdn.exchange.art/non_live_data/creator_data/wTBz8oKOfIg9t4QhdXjZph3RcFg2/brands/LOOKS%20RARE/collections/SPAEM%20SKETCHES/avatar-7dbe66af-33ad-4020-ba5b-b0623f6e1938.gif",
       "https://images.exchange.art/tr:q-100,w-350,dpr-2,bl-0/jeMEFEGT8US83ygH6-3bvvfdYfnViIb5ojD1F8uZ3xk?ext=jpg",
       "https://images.exchange.art/tr:q-100,w-350,dpr-2,bl-0/7sTyOcnkf0oFjLWAj7PUKaGhcCqb1kHWeDJDmeLsPfs?ext=jpg"
-    ]
-  },
-  {
-    "name": "LOOKS RARE",
-    "twitter": "https://twitter.com/thislooksrare",
-    "bio": null,
-    "tags": ["Illustration", null, null],
-    "exchange": null,
-    "holaplex": "https://looks-rare.holaplex.com/",
-    "formfunction": null,
-    "images": [
-      "https://pbs.twimg.com/profile_images/1496544033564508160/GuXM3Y5o_400x400.jpg",
-      "https://looks-rare.com/wp-content/uploads/2021/11/ezgif.com-gif-maker-25.gif",
-      "https://looks-rare.com/wp-content/uploads/2022/01/ezgif.com-gif-maker-42.gif"
     ]
   }
 ]
