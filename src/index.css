@@ -6,13 +6,13 @@ html,
 body {
   background: #222;
   color: #d1d5db;
-  font-family: "Share Tech Mono", monospace;
+  font-family: 'League Spartan', sans-serif;
 }
 
 h1,
 h2,
 h3 {
-  font-family: "Share Tech Mono", monospace;
+  font-family: 'League Spartan', sans-serif;
   color: #25c712;
 }
 
